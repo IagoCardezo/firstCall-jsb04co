@@ -1,0 +1,23 @@
+{
+  "name": "firstCall-jsb04co",
+  "version": "1.0.0",
+  "description": "Ejercicios del primer examen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IagoCardezo/firstCall-jsb04co.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IagoCardezo/firstCall-jsb04co/issues"
+  },
+  "homepage": "https://github.com/IagoCardezo/firstCall-jsb04co#readme",
+  "dependencies": {
+    "browser": "^0.2.6"
+  }
+}
